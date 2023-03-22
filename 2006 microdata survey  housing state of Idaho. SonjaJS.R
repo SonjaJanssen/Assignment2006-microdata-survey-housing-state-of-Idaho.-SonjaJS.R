@@ -3,7 +3,7 @@
 # 2006 microdata survey housing state of Idaho
 # Date: 22 March 2023
 # Codes by: SonjaJS
-# Graded Assignment: 100% review
+# Graded Assignment: 100% by review peers
 
 ###-----------------------------------------------------------------------------------------------------##
 
