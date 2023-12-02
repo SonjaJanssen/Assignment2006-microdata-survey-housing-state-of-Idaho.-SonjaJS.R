@@ -1,7 +1,7 @@
 # Data Cleaning Assignment
 # 2006 Microdata Survey on Housing in Idaho
 # Date: March 22, 2023
-# Code by: SonjaJS
+# Code by: Sonja Janssen-Sahebzad
 
 # ----------------------------------------------------------------------------------------------------- #
 
@@ -66,9 +66,7 @@ DT <- fread("https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2Fss06pid.csv"
 calculation_time <- system.time(DT[, mean(pwgtp15), by = SEX])
 
 # ----------------------------------------------------------------------------------------------------- #
-# Graded assignment: 100% by peer review
 
-##------------------------------------------------------------------------------------------------------##
-# Graded assignment: 100% by review by peers
+
 
 
